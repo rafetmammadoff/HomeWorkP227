@@ -8,7 +8,7 @@ namespace CS_Statements_HomeWork
         {
             // C# statements - for,while,do while,foreach, if else, switch case
 
-            #region 1-ci Tapsiriq
+            #region 1-ci Tapsiriq +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
             //  1. Verilmiş artan sıra ilə düzülmüş ədədlər siyahısındaki n ədədinin
             //    yerləşdiyi indexi tapan alqoritm (binary search)
 
@@ -39,9 +39,9 @@ namespace CS_Statements_HomeWork
             }
             Console.WriteLine("--------------1-ci tapsirigin cavabi-----------------------------------");
             Console.WriteLine(index);
-            #endregion
+            #endregion ---------------------------------------------------------------------------------------
 
-            #region 2-ci Tapsiriq
+            #region 2-ci Tapsiriq +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
             //  2. Verilmiş ədədlər siyahısını artan sıra ilə düzülmüş ədədlər halına gətirən alqoritm
 
@@ -66,9 +66,9 @@ namespace CS_Statements_HomeWork
 
                 Console.WriteLine(mixNumbers[i] + "  ");
             }
-            #endregion
+            #endregion -----------------------------------------------------------------------------------
 
-            #region 3-cu Tapsiriq
+            #region 3-cu Tapsiriq ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
             //  3. Verilmiş iki ədədlər siyahısından birincisinin ikincisinin içində olub olmadığını
             //  tapan alqoritm.Yəni birinci array-dəki ədədlərin hamısı 2ci array-də də
@@ -105,9 +105,9 @@ namespace CS_Statements_HomeWork
             }
 
 
-            #endregion
+            #endregion ------------------------------------------------------------------------------------------
 
-            #region 4-cu Tapsiriq
+            #region 4-cu Tapsiriq ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
             //  4. Console-dan daxil edilmiş ad daxil edilməsini istəyən proqram.
             //  Əgər daxil edilən adda rəqəm varsa yenidən daxil edilməlidir ta ki düz yazana qədər.
@@ -147,9 +147,9 @@ namespace CS_Statements_HomeWork
                 Console.WriteLine("Congrulations");
 
             }
-            #endregion
+            #endregion ----------------------------------------------------------------------------------------
 
-            #region 5-ci Tapsiriq
+            #region 5-ci Tapsiriq ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
             //  5. Verilmiş yazılar siyahısındaki bütün sözlərin A hərfi ilə başlayıb başlamadığını tapan proqram
 
@@ -176,7 +176,7 @@ namespace CS_Statements_HomeWork
             {
                 Console.WriteLine("True");
             }
-            #endregion
+            #endregion ----------------------------------------------------------------------------
         }
     }
 }
