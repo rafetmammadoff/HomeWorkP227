@@ -1,0 +1,14 @@
+C:\Users\profe\Desktop\HomeWorkP227\CS-Statements-HomeWork\CS-Statements-HomeWork\bin\Debug\netcoreapp3.1\CS-Statements-HomeWork.exe
+C:\Users\profe\Desktop\HomeWorkP227\CS-Statements-HomeWork\CS-Statements-HomeWork\bin\Debug\netcoreapp3.1\CS-Statements-HomeWork.deps.json
+C:\Users\profe\Desktop\HomeWorkP227\CS-Statements-HomeWork\CS-Statements-HomeWork\bin\Debug\netcoreapp3.1\CS-Statements-HomeWork.runtimeconfig.json
+C:\Users\profe\Desktop\HomeWorkP227\CS-Statements-HomeWork\CS-Statements-HomeWork\bin\Debug\netcoreapp3.1\CS-Statements-HomeWork.runtimeconfig.dev.json
+C:\Users\profe\Desktop\HomeWorkP227\CS-Statements-HomeWork\CS-Statements-HomeWork\bin\Debug\netcoreapp3.1\CS-Statements-HomeWork.dll
+C:\Users\profe\Desktop\HomeWorkP227\CS-Statements-HomeWork\CS-Statements-HomeWork\bin\Debug\netcoreapp3.1\CS-Statements-HomeWork.pdb
+C:\Users\profe\Desktop\HomeWorkP227\CS-Statements-HomeWork\CS-Statements-HomeWork\obj\Debug\netcoreapp3.1\CS-Statements-HomeWork.csproj.AssemblyReference.cache
+C:\Users\profe\Desktop\HomeWorkP227\CS-Statements-HomeWork\CS-Statements-HomeWork\obj\Debug\netcoreapp3.1\CS-Statements-HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\profe\Desktop\HomeWorkP227\CS-Statements-HomeWork\CS-Statements-HomeWork\obj\Debug\netcoreapp3.1\CS-Statements-HomeWork.AssemblyInfoInputs.cache
+C:\Users\profe\Desktop\HomeWorkP227\CS-Statements-HomeWork\CS-Statements-HomeWork\obj\Debug\netcoreapp3.1\CS-Statements-HomeWork.AssemblyInfo.cs
+C:\Users\profe\Desktop\HomeWorkP227\CS-Statements-HomeWork\CS-Statements-HomeWork\obj\Debug\netcoreapp3.1\CS-Statements-HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\profe\Desktop\HomeWorkP227\CS-Statements-HomeWork\CS-Statements-HomeWork\obj\Debug\netcoreapp3.1\CS-Statements-HomeWork.dll
+C:\Users\profe\Desktop\HomeWorkP227\CS-Statements-HomeWork\CS-Statements-HomeWork\obj\Debug\netcoreapp3.1\CS-Statements-HomeWork.pdb
+C:\Users\profe\Desktop\HomeWorkP227\CS-Statements-HomeWork\CS-Statements-HomeWork\obj\Debug\netcoreapp3.1\CS-Statements-HomeWork.genruntimeconfig.cache
