@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32505.173
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS-Statements-HomeWork", "CS-Statements-HomeWork\CS-Statements-HomeWork.csproj", "{16B681FC-962A-4313-99AF-B5C5E3609D14}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS Method", "..\CS Method\CS Method.csproj", "{AB276DEF-AD1E-470C-85BC-90D6D74E7E05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{16B681FC-962A-4313-99AF-B5C5E3609D14}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16B681FC-962A-4313-99AF-B5C5E3609D14}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16B681FC-962A-4313-99AF-B5C5E3609D14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB276DEF-AD1E-470C-85BC-90D6D74E7E05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB276DEF-AD1E-470C-85BC-90D6D74E7E05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB276DEF-AD1E-470C-85BC-90D6D74E7E05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB276DEF-AD1E-470C-85BC-90D6D74E7E05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

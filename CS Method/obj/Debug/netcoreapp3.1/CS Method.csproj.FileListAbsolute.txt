@@ -1,0 +1,14 @@
+C:\Users\profe\Desktop\HomeWorkP227\CS Method\bin\Debug\netcoreapp3.1\CS Method.exe
+C:\Users\profe\Desktop\HomeWorkP227\CS Method\bin\Debug\netcoreapp3.1\CS Method.deps.json
+C:\Users\profe\Desktop\HomeWorkP227\CS Method\bin\Debug\netcoreapp3.1\CS Method.runtimeconfig.json
+C:\Users\profe\Desktop\HomeWorkP227\CS Method\bin\Debug\netcoreapp3.1\CS Method.runtimeconfig.dev.json
+C:\Users\profe\Desktop\HomeWorkP227\CS Method\bin\Debug\netcoreapp3.1\CS Method.dll
+C:\Users\profe\Desktop\HomeWorkP227\CS Method\bin\Debug\netcoreapp3.1\CS Method.pdb
+C:\Users\profe\Desktop\HomeWorkP227\CS Method\obj\Debug\netcoreapp3.1\CS Method.csproj.AssemblyReference.cache
+C:\Users\profe\Desktop\HomeWorkP227\CS Method\obj\Debug\netcoreapp3.1\CS Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\profe\Desktop\HomeWorkP227\CS Method\obj\Debug\netcoreapp3.1\CS Method.AssemblyInfoInputs.cache
+C:\Users\profe\Desktop\HomeWorkP227\CS Method\obj\Debug\netcoreapp3.1\CS Method.AssemblyInfo.cs
+C:\Users\profe\Desktop\HomeWorkP227\CS Method\obj\Debug\netcoreapp3.1\CS Method.csproj.CoreCompileInputs.cache
+C:\Users\profe\Desktop\HomeWorkP227\CS Method\obj\Debug\netcoreapp3.1\CS Method.dll
+C:\Users\profe\Desktop\HomeWorkP227\CS Method\obj\Debug\netcoreapp3.1\CS Method.pdb
+C:\Users\profe\Desktop\HomeWorkP227\CS Method\obj\Debug\netcoreapp3.1\CS Method.genruntimeconfig.cache
